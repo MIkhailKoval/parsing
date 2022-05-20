@@ -27,14 +27,21 @@ second_corpus = make_corpus(2)
 
 
 def analyze_corpus(corpus, number):
-    m = Mystem()
     f = open("result_mystem/{}_ans.txt".format(number), "w")
     for _ in range(20):
         i = random.randint(0, CORPUS_SIZE - 1)
+        m = Mystem()
         lemmas = m.lemmatize(corpus[i])
         res = "".join(lemmas).strip()
+        ms = Mystem()
+        analyze = ms.analyze(corpus[i])
         f.write("Предложение = {}\n, Результат = {}\n\n".format(corpus[i], res))
-        f.write("анализ = \n".format(m.analyze(corpus[i])))
+        for j, x in enumerate(analyze):
+            if not 'analysis' in x or len(x['analysis']) == 0:
+                continue
+            if 'gr' not in x['analysis'][0]:
+                continue
+            f.write("анализ = {}\n".format(x['analysis'][0]['gr']))
         f.write("====================\n")
     f.close()
 
