@@ -1,0 +1,15 @@
+/home/mikovalnya/dotnet-course/05-multithreading/bin/Debug/net6.0/05-multithreading
+/home/mikovalnya/dotnet-course/05-multithreading/bin/Debug/net6.0/05-multithreading.deps.json
+/home/mikovalnya/dotnet-course/05-multithreading/bin/Debug/net6.0/05-multithreading.runtimeconfig.json
+/home/mikovalnya/dotnet-course/05-multithreading/bin/Debug/net6.0/05-multithreading.dll
+/home/mikovalnya/dotnet-course/05-multithreading/bin/Debug/net6.0/05-multithreading.pdb
+/home/mikovalnya/dotnet-course/05-multithreading/obj/Debug/net6.0/05-multithreading.csproj.AssemblyReference.cache
+/home/mikovalnya/dotnet-course/05-multithreading/obj/Debug/net6.0/05-multithreading.GeneratedMSBuildEditorConfig.editorconfig
+/home/mikovalnya/dotnet-course/05-multithreading/obj/Debug/net6.0/05-multithreading.AssemblyInfoInputs.cache
+/home/mikovalnya/dotnet-course/05-multithreading/obj/Debug/net6.0/05-multithreading.AssemblyInfo.cs
+/home/mikovalnya/dotnet-course/05-multithreading/obj/Debug/net6.0/05-multithreading.csproj.CoreCompileInputs.cache
+/home/mikovalnya/dotnet-course/05-multithreading/obj/Debug/net6.0/05-multithreading.dll
+/home/mikovalnya/dotnet-course/05-multithreading/obj/Debug/net6.0/refint/05-multithreading.dll
+/home/mikovalnya/dotnet-course/05-multithreading/obj/Debug/net6.0/05-multithreading.pdb
+/home/mikovalnya/dotnet-course/05-multithreading/obj/Debug/net6.0/05-multithreading.genruntimeconfig.cache
+/home/mikovalnya/dotnet-course/05-multithreading/obj/Debug/net6.0/ref/05-multithreading.dll

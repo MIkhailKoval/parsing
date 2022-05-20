@@ -1,0 +1,554 @@
+RSS лента http://rss.cnn.com/rss/edition_football.rss взята в обработку!
+!
+RSS лента https://rss.nytimes.com/services/xml/rss/nyt/World.xml взята в обработку!
+RSS лента https://moxie.foxnews.com/feedburner/latest.xml взята в обработку!
+Появилась новая статья : http://www.consultant.ru/law/review/208241876.html#utm_campaign=rss_db&utm_source=rss_reader&utm_medium=rss
+Статья http://www.consultant.ru/law/review/208241876.html#utm_campaign=rss_db&utm_source=rss_reader&utm_medium=rss скачана!
+Появилась новая статья : https://www.sports.ru/tribuna/blogs/mama4h/3029668.html
+Статья https://www.sports.ru/tribuna/blogs/mama4h/3029668.html скачана!
+Появилась новая статья : http://www.consultant.ru/law/review/208241877.html#utm_campaign=rss_db&utm_source=rss_reader&utm_medium=rss
+Статья http://www.consultant.ru/law/review/208241877.html#utm_campaign=rss_db&utm_source=rss_reader&utm_medium=rss скачана!
+Появилась новая статья : http://www.winblog.ru/news/1147772511-rossiyskiy-ii-pokazal-kak-sdelat-zagolovki-novostey-pravdivymi.html
+Статья http://www.winblog.ru/news/1147772511-rossiyskiy-ii-pokazal-kak-sdelat-zagolovki-novostey-pravdivymi.html скачана!
+RSS лента http://www.winblog.ru/category/news/rss.xml обработана!
+Появилась новая статья : http://www.consultant.ru/law/review/208241878.html#utm_campaign=rss_db&utm_source=rss_reader&utm_medium=rss
+Статья http://www.consultant.ru/law/review/208241878.html#utm_campaign=rss_db&utm_source=rss_reader&utm_medium=rss скачана!
+RSS лента http://www.consultant.ru/rss/db.xml обработана!
+Появилась новая статья : https://www.bbc.co.uk/news/business-60945248?at_medium=RSS&at_campaign=KARANGA
+Статья https://www.bbc.co.uk/news/business-60945248?at_medium=RSS&at_campaign=KARANGA скачана!
+Появилась новая статья : https://edu.ru/news/glavnye-novosti/parki-rossiya--moya-istoriya-zapustyat-masshtabnyy/
+Статья https://edu.ru/news/glavnye-novosti/parki-rossiya--moya-istoriya-zapustyat-masshtabnyy/ скачана!
+Появилась новая статья : https://edu.ru/news/it-v-obrazovanii/minprosveshcheniya-rossii-aktivno-zanimaetsya-vopr/
+Статья https://edu.ru/news/it-v-obrazovanii/minprosveshcheniya-rossii-aktivno-zanimaetsya-vopr/ скачана!
+Появилась новая статья : https://edu.ru/news/olimpiady/v-nizhnem-novgorode-startuet-zaklyuchitelnyy-etap-/
+Статья https://edu.ru/news/olimpiady/v-nizhnem-novgorode-startuet-zaklyuchitelnyy-etap-/ скачана!
+Появилась новая статья : https://www.foxnews.com/media/chuck-todd-gop-senator-hunter-biden-media-trump
+Статья https://www.foxnews.com/media/chuck-todd-gop-senator-hunter-biden-media-trump скачана!
+Появилась новая статья : https://www.cnn.com/videos/tv/2022/02/11/gazidis-ac-milan-ctw-spt-intl.cnn
+Статья https://www.cnn.com/videos/tv/2022/02/11/gazidis-ac-milan-ctw-spt-intl.cnn скачана!
+Появилась новая статья : https://www.bbc.co.uk/news/world-europe-60945666?at_medium=RSS&at_campaign=KARANGA
+Статья https://www.bbc.co.uk/news/world-europe-60945666?at_medium=RSS&at_campaign=KARANGA скачана!
+Появилась новая статья : https://www.nytimes.com/live/2022/03/31/world/ukraine-russia-war-news
+Статья https://www.nytimes.com/live/2022/03/31/world/ukraine-russia-war-news скачана!
+Появилась новая статья : https://www.sports.ru/tribuna/blogs/bettery/3020693.html
+Статья https://www.sports.ru/tribuna/blogs/bettery/3020693.html скачана!
+Появилась новая статья : https://edu.ru/news/glavnye-novosti/konkursy-rossiyskogo-istoricheskogo-obshchestva-po/
+Статья https://edu.ru/news/glavnye-novosti/konkursy-rossiyskogo-istoricheskogo-obshchestva-po/ скачана!
+Появилась новая статья : https://edu.ru/news/it-v-obrazovanii/v-podmoskove-vysokoskorostnym-internetom-obespeche/
+Статья https://edu.ru/news/it-v-obrazovanii/v-podmoskove-vysokoskorostnym-internetom-obespeche/ скачана!
+Появилась новая статья : https://www.bbc.co.uk/news/world-europe-60945068?at_medium=RSS&at_campaign=KARANGA
+Статья https://www.bbc.co.uk/news/world-europe-60945068?at_medium=RSS&at_campaign=KARANGA скачана!
+Появилась новая статья : https://www.nytimes.com/2022/03/31/world/europe/ukraine-spies-saboteurs.html
+Статья https://www.nytimes.com/2022/03/31/world/europe/ukraine-spies-saboteurs.html скачана!
+Появилась новая статья : https://edu.ru/news/olimpiady/zaklyuchitelnyy-etap-vserossiyskoy-olimpia11/
+Статья https://edu.ru/news/olimpiady/zaklyuchitelnyy-etap-vserossiyskoy-olimpia11/ скачана!
+Появилась новая статья : https://edu.ru/news/glavnye-novosti/opredeleny-600-polufinalistov-professionalnogo-kon/
+Статья https://edu.ru/news/glavnye-novosti/opredeleny-600-polufinalistov-professionalnogo-kon/ скачана!
+Появилась новая статья : https://edu.ru/news/it-v-obrazovanii/sobyanin-poruchil-otkryt-30-it-klassov-v-shkolah-m/
+Статья https://edu.ru/news/it-v-obrazovanii/sobyanin-poruchil-otkryt-30-it-klassov-v-shkolah-m/ скачана!
+Появилась новая статья : https://www.bbc.co.uk/news/uk-60947028?at_medium=RSS&at_campaign=KARANGA
+Статья https://www.bbc.co.uk/news/uk-60947028?at_medium=RSS&at_campaign=KARANGA скачана!
+Появилась новая статья : https://www.sports.ru/tribuna/blogs/beznedokrutov/3028982.html
+Статья https://www.sports.ru/tribuna/blogs/beznedokrutov/3028982.html скачана!
+Появилась новая статья : https://www.cnn.com/videos/sports/2022/01/07/alexia-putellas-ballon-dor-womens-football-equality-ctw-spt-intl.cnn
+Статья https://www.cnn.com/videos/sports/2022/01/07/alexia-putellas-ballon-dor-womens-football-equality-ctw-spt-intl.cnn скачана!
+Появилась новая статья : https://www.foxnews.com/media/keith-kellogg-russia-putin-forces-failing-losing-war
+Статья https://www.foxnews.com/media/keith-kellogg-russia-putin-forces-failing-losing-war скачана!
+Появилась новая статья : https://www.nytimes.com/2022/03/31/world/asia/north-korea-icbm-fake.html
+Статья https://www.nytimes.com/2022/03/31/world/asia/north-korea-icbm-fake.html скачана!
+Появилась новая статья : https://www.bbc.co.uk/news/uk-politics-60941902?at_medium=RSS&at_campaign=KARANGA
+Статья https://www.bbc.co.uk/news/uk-politics-60941902?at_medium=RSS&at_campaign=KARANGA скачана!
+Появилась новая статья : https://edu.ru/news/olimpiady/mpgu-stanet-ploshchadkoy-provedeniya-finala-vseros/
+Статья https://edu.ru/news/olimpiady/mpgu-stanet-ploshchadkoy-provedeniya-finala-vseros/ скачана!
+Появилась новая статья : https://www.foxnews.com/health/secondhand-marijuana-smoke-bong-more-dangerous-than-cigarette-smoke-study
+Статья https://www.foxnews.com/health/secondhand-marijuana-smoke-bong-more-dangerous-than-cigarette-smoke-study скачана!
+Появилась новая статья : https://edu.ru/news/it-v-obrazovanii/v-nao-bolee-1600-shkolnikov-primut-uchastie-v-akci/
+Статья https://edu.ru/news/it-v-obrazovanii/v-nao-bolee-1600-shkolnikov-primut-uchastie-v-akci/ скачана!
+Появилась новая статья : https://edu.ru/news/glavnye-novosti/v-stolice-zavershilsya-vtoroy-etap-chempionata-pre/
+Статья https://edu.ru/news/glavnye-novosti/v-stolice-zavershilsya-vtoroy-etap-chempionata-pre/ скачана!
+Появилась новая статья : https://www.sports.ru/tribuna/blogs/bmesports/3029076.html
+Статья https://www.sports.ru/tribuna/blogs/bmesports/3029076.html скачана!
+Появилась новая статья : https://www.foxnews.com/opinion/will-smith-slapping-chris-rock-prompts-flood-crazy-media-concha
+Статья https://www.foxnews.com/opinion/will-smith-slapping-chris-rock-prompts-flood-crazy-media-concha скачана!
+Появилась новая статья : https://www.bbc.co.uk/news/business-60938730?at_medium=RSS&at_campaign=KARANGA
+Статья https://www.bbc.co.uk/news/business-60938730?at_medium=RSS&at_campaign=KARANGA скачана!
+Появилась новая статья : https://www.nytimes.com/2022/03/31/world/europe/hungary-viktor-orban-election.html
+Статья https://www.nytimes.com/2022/03/31/world/europe/hungary-viktor-orban-election.html скачана!
+Появилась новая статья : https://edu.ru/news/olimpiady/v-zaklyuchitelnom-etape-vserossiyskoy-olimpiady-sh/
+Статья https://edu.ru/news/olimpiady/v-zaklyuchitelnom-etape-vserossiyskoy-olimpiady-sh/ скачана!
+Появилась новая статья : https://www.foxnews.com/politics/state-department-security-aid-ukraine-embassy-staff-families
+Статья https://www.foxnews.com/politics/state-department-security-aid-ukraine-embassy-staff-families скачана!
+Появилась новая статья : https://edu.ru/news/glavnye-novosti/programmy-profilnye-tehnootryady-v-centrah-okean-i/
+Статья https://edu.ru/news/glavnye-novosti/programmy-profilnye-tehnootryady-v-centrah-okean-i/ скачана!
+Появилась новая статья : https://edu.ru/news/it-v-obrazovanii/tehnopark-vertikalnyy-vzlet-vyshel-vo-vtoroy-etap-/
+Статья https://edu.ru/news/it-v-obrazovanii/tehnopark-vertikalnyy-vzlet-vyshel-vo-vtoroy-etap-/ скачана!
+Появилась новая статья : https://www.cnn.com/videos/sports/2022/01/05/kylian-mbappe-world-cup-success-2022-qatar-spt-intl.cnn
+Статья https://www.cnn.com/videos/sports/2022/01/05/kylian-mbappe-world-cup-success-2022-qatar-spt-intl.cnn скачана!
+Появилась новая статья : https://www.bbc.co.uk/news/world-us-canada-60881825?at_medium=RSS&at_campaign=KARANGA
+Статья https://www.bbc.co.uk/news/world-us-canada-60881825?at_medium=RSS&at_campaign=KARANGA скачана!
+Появилась новая статья : https://www.nytimes.com/2022/03/31/world/europe/ukraine-war-schools.html
+Статья https://www.nytimes.com/2022/03/31/world/europe/ukraine-war-schools.html скачана!
+Появилась новая статья : https://www.sports.ru/tribuna/blogs/autoflashbacks/3029685.html
+Статья https://www.sports.ru/tribuna/blogs/autoflashbacks/3029685.html скачана!
+Появилась новая статья : https://www.foxnews.com/auto/cars-trucks-biggest-markups
+Статья https://www.foxnews.com/auto/cars-trucks-biggest-markups скачана!
+Появилась новая статья : https://www.bbc.co.uk/news/uk-60941529?at_medium=RSS&at_campaign=KARANGA
+Статья https://www.bbc.co.uk/news/uk-60941529?at_medium=RSS&at_campaign=KARANGA скачана!
+Появилась новая статья : https://edu.ru/news/olimpiady/bolee-500-starsheklassnikov-uchastvuyut-v-zaklyuch/
+Статья https://edu.ru/news/olimpiady/bolee-500-starsheklassnikov-uchastvuyut-v-zaklyuch/ скачана!
+Появилась новая статья : https://www.foxnews.com/media/crazy-rich-russians-vladimir-putin-yacht-oligarchs
+Статья https://www.foxnews.com/media/crazy-rich-russians-vladimir-putin-yacht-oligarchs скачана!
+Появилась новая статья : https://edu.ru/news/glavnye-novosti/v-stolice-podveli-itogi-shkolnoy-zimney-sportivnoy/
+Статья https://edu.ru/news/glavnye-novosti/v-stolice-podveli-itogi-shkolnoy-zimney-sportivnoy/ скачана!
+Появилась новая статья : https://edu.ru/news/it-v-obrazovanii/na-fedproekt-cifrovaya-obrazovatelnaya-sreda-vydel/
+Статья https://edu.ru/news/it-v-obrazovanii/na-fedproekt-cifrovaya-obrazovatelnaya-sreda-vydel/ скачана!
+Появилась новая статья : https://www.nytimes.com/2022/03/31/world/europe/macron-france-consultants-mckinsey-campaign.html
+Статья https://www.nytimes.com/2022/03/31/world/europe/macron-france-consultants-mckinsey-campaign.html скачана!
+Появилась новая статья : https://www.bbc.co.uk/news/uk-england-lincolnshire-60938930?at_medium=RSS&at_campaign=KARANGA
+Статья https://www.bbc.co.uk/news/uk-england-lincolnshire-60938930?at_medium=RSS&at_campaign=KARANGA скачана!
+Появилась новая статья : https://www.cnn.com/videos/sports/2022/01/06/teqball-world-championship-olympics-2028-spt-intl-lon-orig.cnn
+Статья https://www.cnn.com/videos/sports/2022/01/06/teqball-world-championship-olympics-2028-spt-intl-lon-orig.cnn скачана!
+Появилась новая статья : https://www.foxnews.com/politics/durham-probe-judge-sussmann-dismissal-request
+Статья https://www.foxnews.com/politics/durham-probe-judge-sussmann-dismissal-request скачана!
+Появилась новая статья : https://www.sports.ru/tribuna/blogs/asterisk/3028587.html
+Статья https://www.sports.ru/tribuna/blogs/asterisk/3028587.html скачана!
+Появилась новая статья : https://edu.ru/news/it-v-obrazovanii/v-gosdume-predlozhili-obuchat-shkolnikov-osnovam-t/
+Статья https://edu.ru/news/it-v-obrazovanii/v-gosdume-predlozhili-obuchat-shkolnikov-osnovam-t/ скачана!
+Появилась новая статья : https://edu.ru/news/glavnye-novosti/pushkinskuyu-kartu-za-sem-mesyacev-raboty-programm/
+Статья https://edu.ru/news/glavnye-novosti/pushkinskuyu-kartu-za-sem-mesyacev-raboty-programm/ скачана!
+Появилась новая статья : https://www.nytimes.com/2022/03/31/world/europe/ireland-magdalene-laundry-women-abuse.html
+Статья https://www.nytimes.com/2022/03/31/world/europe/ireland-magdalene-laundry-women-abuse.html скачана!
+Появилась новая статья : https://edu.ru/news/olimpiady/v-siriuse-startuet-final-vserossiyskoy-olimpiady-s/
+Статья https://edu.ru/news/olimpiady/v-siriuse-startuet-final-vserossiyskoy-olimpiady-s/ скачана!
+Появилась новая статья : https://www.foxnews.com/science/nasa-hubble-space-telescope-spots-farthest-star-ever-seen
+Статья https://www.foxnews.com/science/nasa-hubble-space-telescope-spots-farthest-star-ever-seen скачана!
+Появилась новая статья : https://www.bbc.co.uk/news/uk-england-south-yorkshire-60940507?at_medium=RSS&at_campaign=KARANGA
+Статья https://www.bbc.co.uk/news/uk-england-south-yorkshire-60940507?at_medium=RSS&at_campaign=KARANGA скачана!
+Появилась новая статья : https://www.foxnews.com/politics/pelosi-justice-clarence-thomas-resign-supreme-court
+Статья https://www.foxnews.com/politics/pelosi-justice-clarence-thomas-resign-supreme-court скачана!
+Появилась новая статья : https://www.sports.ru/tribuna/blogs/iceraccoon/3029605.html
+Статья https://www.sports.ru/tribuna/blogs/iceraccoon/3029605.html скачана!
+Появилась новая статья : https://www.bbc.co.uk/news/world-europe-60938538?at_medium=RSS&at_campaign=KARANGA
+Статья https://www.bbc.co.uk/news/world-europe-60938538?at_medium=RSS&at_campaign=KARANGA скачана!
+Появилась новая статья : https://www.nytimes.com/2022/03/31/world/asia/china-cheng-lei-australia.html
+Статья https://www.nytimes.com/2022/03/31/world/asia/china-cheng-lei-australia.html скачана!
+Появилась новая статья : https://www.cnn.com/videos/sports/2021/12/22/chelsea-tackling-discrimination-matchday-spt-intl.cnn
+Статья https://www.cnn.com/videos/sports/2021/12/22/chelsea-tackling-discrimination-matchday-spt-intl.cnn скачана!
+Появилась новая статья : https://edu.ru/news/glavnye-novosti/pravitelstvo-rossii-vklyuchilo-v-programmu-detskog/
+Статья https://edu.ru/news/glavnye-novosti/pravitelstvo-rossii-vklyuchilo-v-programmu-detskog/ скачана!
+Появилась новая статья : https://edu.ru/news/olimpiady/mezhdunarodnyy-superfinal-nto-planiruetsya-provest/
+Статья https://edu.ru/news/olimpiady/mezhdunarodnyy-superfinal-nto-planiruetsya-provest/ скачана!
+Появилась новая статья : https://edu.ru/news/it-v-obrazovanii/onlayn-obuchenie-dolzhno-byt-vstroeno-v-uchebnyy-p/
+Статья https://edu.ru/news/it-v-obrazovanii/onlayn-obuchenie-dolzhno-byt-vstroeno-v-uchebnyy-p/ скачана!
+Появилась новая статья : https://www.foxnews.com/us/south-carolina-middle-school-student-shot-suspect-in-custody
+Статья https://www.foxnews.com/us/south-carolina-middle-school-student-shot-suspect-in-custody скачана!
+Появилась новая статья : https://www.bbc.co.uk/news/uk-60941537?at_medium=RSS&at_campaign=KARANGA
+Статья https://www.bbc.co.uk/news/uk-60941537?at_medium=RSS&at_campaign=KARANGA скачана!
+Появилась новая статья : https://www.sports.ru/tribuna/blogs/fotoblog/3029327.html
+Статья https://www.sports.ru/tribuna/blogs/fotoblog/3029327.html скачана!
+Появилась новая статья : https://www.nytimes.com/2022/03/31/world/asia/hong-kong-china-covid.html
+Статья https://www.nytimes.com/2022/03/31/world/asia/hong-kong-china-covid.html скачана!
+Появилась новая статья : https://www.foxnews.com/us/nyc-woman-bites-man-knife-children-subway
+Статья https://www.foxnews.com/us/nyc-woman-bites-man-knife-children-subway скачана!
+Появилась новая статья : https://edu.ru/news/glavnye-novosti/na-ukraine-velas-celenapravlennaya-rabota-po-iskaz/
+Статья https://edu.ru/news/glavnye-novosti/na-ukraine-velas-celenapravlennaya-rabota-po-iskaz/ скачана!
+Появилась новая статья : https://www.bbc.co.uk/news/uk-england-south-yorkshire-60946394?at_medium=RSS&at_campaign=KARANGA
+Статья https://www.bbc.co.uk/news/uk-england-south-yorkshire-60946394?at_medium=RSS&at_campaign=KARANGA скачана!
+Появилась новая статья : https://edu.ru/news/olimpiady/zaklyuchitelnyy-etap-vserossiyskoy-olimpiad/
+Статья https://edu.ru/news/olimpiady/zaklyuchitelnyy-etap-vserossiyskoy-olimpiad/ скачана!
+Появилась новая статья : https://edu.ru/news/it-v-obrazovanii/rosteh-razrabotal-sistemu-beskontaktnogo-kontrolya/
+Статья https://edu.ru/news/it-v-obrazovanii/rosteh-razrabotal-sistemu-beskontaktnogo-kontrolya/ скачана!
+Появилась новая статья : https://www.cnn.com/videos/sports/2021/10/14/mohamed-salah-liverpool-underrated-premier-league-football-spt-intl-lon-orig.cnn
+Статья https://www.cnn.com/videos/sports/2021/10/14/mohamed-salah-liverpool-underrated-premier-league-football-spt-intl-lon-orig.cnn скачана!
+Появилась новая статья : https://www.nytimes.com/2022/03/31/world/africa/kenya-supreme-court-constitution.html
+Статья https://www.nytimes.com/2022/03/31/world/africa/kenya-supreme-court-constitution.html скачана!
+Появилась новая статья : https://www.foxnews.com/lifestyle/frozen-spring-vegetable-risotto-recipe
+Статья https://www.foxnews.com/lifestyle/frozen-spring-vegetable-risotto-recipe скачана!
+Появилась новая статья : https://www.sports.ru/tribuna/blogs/bankshot/3029508.html
+Статья https://www.sports.ru/tribuna/blogs/bankshot/3029508.html скачана!
+Появилась новая статья : https://www.bbc.co.uk/news/world-60945122?at_medium=RSS&at_campaign=KARANGA
+Статья https://www.bbc.co.uk/news/world-60945122?at_medium=RSS&at_campaign=KARANGA скачана!
+Появилась новая статья : https://www.foxnews.com/great-outdoors/alligator-spotted-football-mouth-florida
+Статья https://www.foxnews.com/great-outdoors/alligator-spotted-football-mouth-florida скачана!
+Появилась новая статья : https://edu.ru/news/olimpiady/zaklyuchitelnyy-etap-vserossiyskoy-olimpiady-shkol/
+Статья https://edu.ru/news/olimpiady/zaklyuchitelnyy-etap-vserossiyskoy-olimpiady-shkol/ скачана!
+Появилась новая статья : https://edu.ru/news/glavnye-novosti/v-kazani-podveli-itogi-konferencii-esse-region-onl/
+Статья https://edu.ru/news/glavnye-novosti/v-kazani-podveli-itogi-konferencii-esse-region-onl/ скачана!
+Появилась новая статья : https://edu.ru/news/it-v-obrazovanii/olga-vasileva-osmotrela-vystavku-cifrovaya-obrazov/
+Статья https://edu.ru/news/it-v-obrazovanii/olga-vasileva-osmotrela-vystavku-cifrovaya-obrazov/ скачана!
+Появилась новая статья : https://www.nytimes.com/2022/03/31/world/asia/myanmar-coup-prisoners.html
+Статья https://www.nytimes.com/2022/03/31/world/asia/myanmar-coup-prisoners.html скачана!
+Появилась новая статья : https://www.foxnews.com/politics/kyiv-pounded-russian-strikes-not-scaling-back-pentagon
+Статья https://www.foxnews.com/politics/kyiv-pounded-russian-strikes-not-scaling-back-pentagon скачана!
+Появилась новая статья : https://www.bbc.co.uk/news/world-europe-60947271?at_medium=RSS&at_campaign=KARANGA
+Статья https://www.bbc.co.uk/news/world-europe-60947271?at_medium=RSS&at_campaign=KARANGA скачана!
+Появилась новая статья : https://www.cnn.com/videos/sports/2021/11/22/adnan-januzaj-real-sociedad-la-liga-football-spt-intl.cnn
+Статья https://www.cnn.com/videos/sports/2021/11/22/adnan-januzaj-real-sociedad-la-liga-football-spt-intl.cnn скачана!
+Появилась новая статья : https://www.sports.ru/tribuna/blogs/suddenlife/3028251.html
+Статья https://www.sports.ru/tribuna/blogs/suddenlife/3028251.html скачана!
+Появилась новая статья : https://edu.ru/news/olimpiady/final-vserossiyskoy-olimpiady-shkolnikov-po-francu/
+Статья https://edu.ru/news/olimpiady/final-vserossiyskoy-olimpiady-shkolnikov-po-francu/ скачана!
+Появилась новая статья : https://edu.ru/news/glavnye-novosti/vserossiyskiy-inklyuzivnyy-festival-lyudikak/
+Статья https://edu.ru/news/glavnye-novosti/vserossiyskiy-inklyuzivnyy-festival-lyudikak/ скачана!
+Появилась новая статья : https://edu.ru/news/it-v-obrazovanii/v-minobrnauki-rossii-obsudili-promezhutochnye-itog/
+Статья https://edu.ru/news/it-v-obrazovanii/v-minobrnauki-rossii-obsudili-promezhutochnye-itog/ скачана!
+Появилась новая статья : https://www.foxnews.com/us/medical-student-implied-stuck-patient-twice-mocking-pronoun-pin-no-longer-working-patients
+Статья https://www.foxnews.com/us/medical-student-implied-stuck-patient-twice-mocking-pronoun-pin-no-longer-working-patients скачана!
+Появилась новая статья : https://www.bbc.co.uk/news/uk-politics-60939406?at_medium=RSS&at_campaign=KARANGA
+Статья https://www.bbc.co.uk/news/uk-politics-60939406?at_medium=RSS&at_campaign=KARANGA скачана!
+Появилась новая статья : https://www.nytimes.com/2022/03/30/world/asia/imran-khan-pakistan-vote.html
+Статья https://www.nytimes.com/2022/03/30/world/asia/imran-khan-pakistan-vote.html скачана!
+Появилась новая статья : https://www.foxnews.com/opinion/mainstream-media-independent-fact-checkers-left-tim-graham
+Статья https://www.foxnews.com/opinion/mainstream-media-independent-fact-checkers-left-tim-graham скачана!
+Появилась новая статья : https://www.bbc.co.uk/news/world-europe-60938429?at_medium=RSS&at_campaign=KARANGA
+Статья https://www.bbc.co.uk/news/world-europe-60938429?at_medium=RSS&at_campaign=KARANGA скачана!
+Появилась новая статья : https://www.sports.ru/tribuna/blogs/mama4h/3029624.html
+Статья https://www.sports.ru/tribuna/blogs/mama4h/3029624.html скачана!
+Появилась новая статья : https://edu.ru/news/olimpiady/bolee-6-tysyach-starsheklassnikov-primut-uchastie-/
+Статья https://edu.ru/news/olimpiady/bolee-6-tysyach-starsheklassnikov-primut-uchastie-/ скачана!
+Появилась новая статья : https://edu.ru/news/glavnye-novosti/v-podmoskove-v-noch-na-31-marta-startuet-programma/
+Статья https://edu.ru/news/glavnye-novosti/v-podmoskove-v-noch-na-31-marta-startuet-programma/ скачана!
+Появилась новая статья : https://edu.ru/news/it-v-obrazovanii/nam-nuzhno-dumat-kak-vystraivat-vysshee-obrazovani/
+Статья https://edu.ru/news/it-v-obrazovanii/nam-nuzhno-dumat-kak-vystraivat-vysshee-obrazovani/ скачана!
+Появилась новая статья : https://www.cnn.com/videos/sports/2021/10/05/xabi-alonso-real-sociedad-spain-world-cup-spt-intl.cnn
+Статья https://www.cnn.com/videos/sports/2021/10/05/xabi-alonso-real-sociedad-spain-world-cup-spt-intl.cnn скачана!
+Появилась новая статья : https://www.nytimes.com/2022/03/30/world/asia/myanmar-jungle-insurgency.html
+Статья https://www.nytimes.com/2022/03/30/world/asia/myanmar-jungle-insurgency.html скачана!
+Появилась новая статья : https://www.foxnews.com/politics/jared-kushner-jan-6-committee-appearance
+Статья https://www.foxnews.com/politics/jared-kushner-jan-6-committee-appearance скачана!
+Появилась новая статья : https://www.bbc.co.uk/news/world-europe-60935734?at_medium=RSS&at_campaign=KARANGA
+Статья https://www.bbc.co.uk/news/world-europe-60935734?at_medium=RSS&at_campaign=KARANGA скачана!
+Появилась новая статья : https://www.foxnews.com/us/pennsylvania-road-rage-suspect-charged-ramming-police-vehicle-injuring-officers-car-chase
+Статья https://www.foxnews.com/us/pennsylvania-road-rage-suspect-charged-ramming-police-vehicle-injuring-officers-car-chase скачана!
+Появилась новая статья : https://www.nytimes.com/2022/03/30/world/middleeast/israel-terrorism-attack.html
+Статья https://www.nytimes.com/2022/03/30/world/middleeast/israel-terrorism-attack.html скачана!
+Появилась новая статья : https://edu.ru/news/it-v-obrazovanii/sergey-sobyanin-kosnulsya-voprosa-zameny-ege-elekt/
+Статья https://edu.ru/news/it-v-obrazovanii/sergey-sobyanin-kosnulsya-voprosa-zameny-ege-elekt/ скачана!
+Появилась новая статья : https://edu.ru/news/olimpiady/v-stolice-proydet-olimpiada-znaem-russkiy-yazyk--2/
+Статья https://edu.ru/news/olimpiady/v-stolice-proydet-olimpiada-znaem-russkiy-yazyk--2/ скачана!
+Появилась новая статья : https://edu.ru/news/glavnye-novosti/v-moskve-proydet-kibersportivnyy-turnir-pobedy-pos/
+Статья https://edu.ru/news/glavnye-novosti/v-moskve-proydet-kibersportivnyy-turnir-pobedy-pos/ скачана!
+Появилась новая статья : https://www.bbc.co.uk/news/uk-60928946?at_medium=RSS&at_campaign=KARANGA
+Статья https://www.bbc.co.uk/news/uk-60928946?at_medium=RSS&at_campaign=KARANGA скачана!
+Появилась новая статья : https://www.cnn.com/videos/sports/2021/09/23/emma-hayes-no-to-hate-campaign-chelsea-spt-intl.cnn
+Статья https://www.cnn.com/videos/sports/2021/09/23/emma-hayes-no-to-hate-campaign-chelsea-spt-intl.cnn скачана!
+Появилась новая статья : https://www.foxnews.com/politics/cia-director-william-burns-covid-19-positive
+Статья https://www.foxnews.com/politics/cia-director-william-burns-covid-19-positive скачана!
+RSS лента https://moxie.foxnews.com/feedburner/latest.xml обработана!
+Появилась новая статья : https://sprts.cc/RKgj2Bksd
+Статья https://sprts.cc/RKgj2Bksd скачана!
+Появилась новая статья : https://www.nytimes.com/2022/03/31/world/europe/ukraine-security-guarantees.html
+Статья https://www.nytimes.com/2022/03/31/world/europe/ukraine-security-guarantees.html скачана!
+Появилась новая статья : https://www.bbc.co.uk/news/world-middle-east-60931180?at_medium=RSS&at_campaign=KARANGA
+Статья https://www.bbc.co.uk/news/world-middle-east-60931180?at_medium=RSS&at_campaign=KARANGA скачана!
+Появилась новая статья : https://edu.ru/news/olimpiady/dlya-shkolnikov-611-h-klassov-startuet-olimpiada-y/
+Статья https://edu.ru/news/olimpiady/dlya-shkolnikov-611-h-klassov-startuet-olimpiada-y/ скачана!
+Появилась новая статья : https://edu.ru/news/glavnye-novosti/startoval-tretiy-sezon-vserossiyskogo-konkursa-bol/
+Статья https://edu.ru/news/glavnye-novosti/startoval-tretiy-sezon-vserossiyskogo-konkursa-bol/ скачана!
+Появилась новая статья : https://edu.ru/news/it-v-obrazovanii/pervyy-etap-raboty-nad-resh-zavershilsya-v-dekabre/
+Статья https://edu.ru/news/it-v-obrazovanii/pervyy-etap-raboty-nad-resh-zavershilsya-v-dekabre/ скачана!
+Появилась новая статья : https://www.bbc.co.uk/news/world-europe-56720589?at_medium=RSS&at_campaign=KARANGA
+Статья https://www.bbc.co.uk/news/world-europe-56720589?at_medium=RSS&at_campaign=KARANGA скачана!
+Появилась новая статья : https://www.nytimes.com/2022/03/31/world/europe/putin-jk-rowling.html
+Статья https://www.nytimes.com/2022/03/31/world/europe/putin-jk-rowling.html скачана!
+Появилась новая статья : https://www.cnn.com/videos/sports/2021/11/29/axel-witsel-borussia-dortmund-haaland-football-spt-intl-lon-orig.cnn
+Статья https://www.cnn.com/videos/sports/2021/11/29/axel-witsel-borussia-dortmund-haaland-football-spt-intl-lon-orig.cnn скачана!
+Появилась новая статья : https://www.bbc.co.uk/news/world-europe-60931910?at_medium=RSS&at_campaign=KARANGA
+Статья https://www.bbc.co.uk/news/world-europe-60931910?at_medium=RSS&at_campaign=KARANGA скачана!
+Появилась новая статья : https://edu.ru/news/olimpiady/starsheklassniki-i-studenty-mogut-prinyat-uchastie/
+Статья https://edu.ru/news/olimpiady/starsheklassniki-i-studenty-mogut-prinyat-uchastie/ скачана!
+Появилась новая статья : https://edu.ru/news/it-v-obrazovanii/moskovskaya-sistema-obrazovaniya-absolyutno-otkryt/
+Статья https://edu.ru/news/it-v-obrazovanii/moskovskaya-sistema-obrazovaniya-absolyutno-otkryt/ скачана!
+Появилась новая статья : https://edu.ru/news/glavnye-novosti/uchastniki-programmy-mir-otkrytiy-v-smene-sozdayut/
+Статья https://edu.ru/news/glavnye-novosti/uchastniki-programmy-mir-otkrytiy-v-smene-sozdayut/ скачана!
+Появилась новая статья : https://www.sports.ru/tribuna/blogs/interval/3029284.html
+Статья https://www.sports.ru/tribuna/blogs/interval/3029284.html скачана!
+Появилась новая статья : https://www.nytimes.com/2022/03/31/world/europe/us-sanctions-russia.html
+Статья https://www.nytimes.com/2022/03/31/world/europe/us-sanctions-russia.html скачана!
+Появилась новая статья : https://www.bbc.co.uk/news/world-europe-60922393?at_medium=RSS&at_campaign=KARANGA
+Статья https://www.bbc.co.uk/news/world-europe-60922393?at_medium=RSS&at_campaign=KARANGA скачана!
+Появилась новая статья : https://www.cnn.com/videos/sports/2021/09/22/jess-carter-magdalena-eriksson-no-to-hate-campaign-chelsea-spt-intl.cnn
+Статья https://www.cnn.com/videos/sports/2021/09/22/jess-carter-magdalena-eriksson-no-to-hate-campaign-chelsea-spt-intl.cnn скачана!
+Появилась новая статья : https://edu.ru/news/olimpiady/moskovskie-shkolniki-zavoevali-49-diplomov-na-otkr/
+Статья https://edu.ru/news/olimpiady/moskovskie-shkolniki-zavoevali-49-diplomov-na-otkr/ скачана!
+Появилась новая статья : https://edu.ru/news/glavnye-novosti/vo-vserossiyskom-uroke-dobrovolchestva-prinyali-uc/
+Статья https://edu.ru/news/glavnye-novosti/vo-vserossiyskom-uroke-dobrovolchestva-prinyali-uc/ скачана!
+Появилась новая статья : https://edu.ru/news/it-v-obrazovanii/navigator-po-programmam-dopobrazovaniya-dast-vozmo/
+Статья https://edu.ru/news/it-v-obrazovanii/navigator-po-programmam-dopobrazovaniya-dast-vozmo/ скачана!
+Появилась новая статья : https://www.nytimes.com/2022/03/31/world/europe/nato-russia-kyiv.html
+Статья https://www.nytimes.com/2022/03/31/world/europe/nato-russia-kyiv.html скачана!
+Появилась новая статья : https://www.sports.ru/tribuna/blogs/dorskiy/3029252.html
+Статья https://www.sports.ru/tribuna/blogs/dorskiy/3029252.html скачана!
+Появилась новая статья : https://www.bbc.co.uk/news/world-asia-china-60798556?at_medium=RSS&at_campaign=KARANGA
+Статья https://www.bbc.co.uk/news/world-asia-china-60798556?at_medium=RSS&at_campaign=KARANGA скачана!
+Появилась новая статья : https://www.nytimes.com/2022/03/31/world/europe/putin-approval-rating-russia.html
+Статья https://www.nytimes.com/2022/03/31/world/europe/putin-approval-rating-russia.html скачана!
+Появилась новая статья : https://edu.ru/news/olimpiady/v-dvfu-zavershilis-zaklyuchitelnye-etapy-nto-po-ry/
+Статья https://edu.ru/news/olimpiady/v-dvfu-zavershilis-zaklyuchitelnye-etapy-nto-po-ry/ скачана!
+Появилась новая статья : https://edu.ru/news/it-v-obrazovanii/tehnologii-bolshih-dannyh-perspektivno-ispolzovat-/
+Статья https://edu.ru/news/it-v-obrazovanii/tehnologii-bolshih-dannyh-perspektivno-ispolzovat-/ скачана!
+Появилась новая статья : https://edu.ru/news/glavnye-novosti/13-komand-sibirskogo-federalnogo-okruga-stali-fina/
+Статья https://edu.ru/news/glavnye-novosti/13-komand-sibirskogo-federalnogo-okruga-stali-fina/ скачана!
+Появилась новая статья : https://www.bbc.co.uk/news/uk-england-bristol-60942589?at_medium=RSS&at_campaign=KARANGA
+Статья https://www.bbc.co.uk/news/uk-england-bristol-60942589?at_medium=RSS&at_campaign=KARANGA скачана!
+Появилась новая статья : https://www.cnn.com/videos/sports/2021/08/19/khalida-popal-afghanistan-women-football-taliban-fall-spt-intl.cnn
+Статья https://www.cnn.com/videos/sports/2021/08/19/khalida-popal-afghanistan-women-football-taliban-fall-spt-intl.cnn скачана!
+Появилась новая статья : https://www.sports.ru/tribuna/blogs/autoflashbacks/3029451.html
+Статья https://www.sports.ru/tribuna/blogs/autoflashbacks/3029451.html скачана!
+Появилась новая статья : https://www.nytimes.com/2022/03/31/world/europe/kremlin-us-intelligence-putin.html
+Статья https://www.nytimes.com/2022/03/31/world/europe/kremlin-us-intelligence-putin.html скачана!
+Появилась новая статья : https://www.bbc.co.uk/news/world-60944942?at_medium=RSS&at_campaign=KARANGA
+Статья https://www.bbc.co.uk/news/world-60944942?at_medium=RSS&at_campaign=KARANGA скачана!
+Появилась новая статья : https://edu.ru/news/olimpiady/deti-i-podrostki-altaya-primut-uchastie-v-olimpiad/
+Статья https://edu.ru/news/olimpiady/deti-i-podrostki-altaya-primut-uchastie-v-olimpiad/ скачана!
+Появилась новая статья : https://edu.ru/news/glavnye-novosti/v-orlyonke-startuyut-shest-obrazovatelnyh-programm/
+Статья https://edu.ru/news/glavnye-novosti/v-orlyonke-startuyut-shest-obrazovatelnyh-programm/ скачана!
+Появилась новая статья : https://edu.ru/news/it-v-obrazovanii/my-priderzhivaemsya-ostorozhnogo-podhoda-v-voprosa/
+Статья https://edu.ru/news/it-v-obrazovanii/my-priderzhivaemsya-ostorozhnogo-podhoda-v-voprosa/ скачана!
+Появилась новая статья : https://www.nytimes.com/2022/03/31/briefing/covid-funding-boosters-vaccinations.html
+Статья https://www.nytimes.com/2022/03/31/briefing/covid-funding-boosters-vaccinations.html скачана!
+Появилась новая статья : https://www.bbc.co.uk/news/world-africa-60939147?at_medium=RSS&at_campaign=KARANGA
+Статья https://www.bbc.co.uk/news/world-africa-60939147?at_medium=RSS&at_campaign=KARANGA скачана!
+Появилась новая статья : https://www.cnn.com/2020/08/31/football/angel-city-julie-uhrman-natalie-portman-alexis-ohanian-cmd-spt-intl/index.html
+Статья https://www.cnn.com/2020/08/31/football/angel-city-julie-uhrman-natalie-portman-alexis-ohanian-cmd-spt-intl/index.html скачана!
+Появилась новая статья : https://www.sports.ru/tribuna/blogs/voronin/3029468.html
+Статья https://www.sports.ru/tribuna/blogs/voronin/3029468.html скачана!
+Появилась новая статья : https://edu.ru/news/olimpiady/160-tysyach-shkolnikov-prinyali-uchastie-v-regiona/
+Статья https://edu.ru/news/olimpiady/160-tysyach-shkolnikov-prinyali-uchastie-v-regiona/ скачана!
+Появилась новая статья : https://edu.ru/news/glavnye-novosti/podvedeny-itogi-nto-po-profilyu-bespilotnye-aviaci/
+Статья https://edu.ru/news/glavnye-novosti/podvedeny-itogi-nto-po-profilyu-bespilotnye-aviaci/ скачана!
+Появилась новая статья : https://edu.ru/news/it-v-obrazovanii/bolshie-dannye-pomogut-uchenikam-sformirovat-lichn/
+Статья https://edu.ru/news/it-v-obrazovanii/bolshie-dannye-pomogut-uchenikam-sformirovat-lichn/ скачана!
+Появилась новая статья : https://www.bbc.co.uk/sport/football/60935635?at_medium=RSS&at_campaign=KARANGA
+Статья https://www.bbc.co.uk/sport/football/60935635?at_medium=RSS&at_campaign=KARANGA скачана!
+Появилась новая статья : https://www.nytimes.com/2022/03/31/world/europe/wagner-group-russia-ukraine.html
+Статья https://www.nytimes.com/2022/03/31/world/europe/wagner-group-russia-ukraine.html скачана!
+Появилась новая статья : https://edu.ru/news/glavnye-novosti/sergey-kravcov-i-maksim-dreval-obsudili-programmu-/
+Статья https://edu.ru/news/glavnye-novosti/sergey-kravcov-i-maksim-dreval-obsudili-programmu-/ скачана!
+RSS лента https://edu.ru/news/glavnye-novosti/feed.rss обработана!
+Появилась новая статья : https://edu.ru/news/olimpiady/startovala-vserossiyskaya-bolshaya-olimpiada-iskus/
+Статья https://edu.ru/news/olimpiady/startovala-vserossiyskaya-bolshaya-olimpiada-iskus/ скачана!
+Появилась новая статья : https://edu.ru/news/it-v-obrazovanii/vopros-bolshih-dannyh-chrezvychayno-diskussionnyy-/
+Статья https://edu.ru/news/it-v-obrazovanii/vopros-bolshih-dannyh-chrezvychayno-diskussionnyy-/ скачана!
+RSS лента https://edu.ru/news/it-v-obrazovanii/feed.rss обработана!
+Появилась новая статья : https://www.bbc.co.uk/news/uk-england-tyne-60943132?at_medium=RSS&at_campaign=KARANGA
+Статья https://www.bbc.co.uk/news/uk-england-tyne-60943132?at_medium=RSS&at_campaign=KARANGA скачана!
+Появилась новая статья : https://www.cnn.com/2020/08/15/football/mason-greenwood-manchester-united-europa-league-spt-intl-cmd/index.html
+Статья https://www.cnn.com/2020/08/15/football/mason-greenwood-manchester-united-europa-league-spt-intl-cmd/index.html скачана!
+Появилась новая статья : https://www.sports.ru/tribuna/blogs/suddenlife/3029566.html
+Статья https://www.sports.ru/tribuna/blogs/suddenlife/3029566.html скачана!
+Появилась новая статья : https://www.nytimes.com/2022/03/31/briefing/russia-ukraine-myanmar-militia.html
+Статья https://www.nytimes.com/2022/03/31/briefing/russia-ukraine-myanmar-militia.html скачана!
+Появилась новая статья : https://www.bbc.co.uk/news/world-asia-india-60929949?at_medium=RSS&at_campaign=KARANGA
+Статья https://www.bbc.co.uk/news/world-asia-india-60929949?at_medium=RSS&at_campaign=KARANGA скачана!
+Появилась новая статья : https://edu.ru/news/olimpiady/v-moskve-podveli-itogi-olimpiady-mir-vokrug--2022/
+Статья https://edu.ru/news/olimpiady/v-moskve-podveli-itogi-olimpiady-mir-vokrug--2022/ скачана!
+RSS лента https://edu.ru/news/olimpiady/feed.rss обработана!
+Появилась новая статья : https://www.sports.ru/tribuna/blogs/ultras_action/3029045.html
+Статья https://www.sports.ru/tribuna/blogs/ultras_action/3029045.html скачана!
+Появилась новая статья : https://www.nytimes.com/2022/03/30/world/europe/ukraine-russia-war.html
+Статья https://www.nytimes.com/2022/03/30/world/europe/ukraine-russia-war.html скачана!
+Появилась новая статья : https://www.cnn.com/2020/08/04/football/manchester-united-bruno-fernandes-europa-league-cmd-spt-intl/index.html
+Статья https://www.cnn.com/2020/08/04/football/manchester-united-bruno-fernandes-europa-league-cmd-spt-intl/index.html скачана!
+Появилась новая статья : https://www.bbc.co.uk/news/newsbeat-60925567?at_medium=RSS&at_campaign=KARANGA
+Статья https://www.bbc.co.uk/news/newsbeat-60925567?at_medium=RSS&at_campaign=KARANGA скачана!
+Появилась новая статья : https://www.nytimes.com/2022/03/30/world/africa/tunisia-president-dissolve-parliament.html
+Статья https://www.nytimes.com/2022/03/30/world/africa/tunisia-president-dissolve-parliament.html скачана!
+Появилась новая статья : https://www.bbc.co.uk/news/uk-60947340?at_medium=RSS&at_campaign=KARANGA
+Статья https://www.bbc.co.uk/news/uk-60947340?at_medium=RSS&at_campaign=KARANGA скачана!
+Появилась новая статья : https://www.sports.ru/tribuna/blogs/wrongturn/3029417.html
+Статья https://www.sports.ru/tribuna/blogs/wrongturn/3029417.html скачана!
+Появилась новая статья : https://www.bbc.co.uk/news/health-60913637?at_medium=RSS&at_campaign=KARANGA
+Статья https://www.bbc.co.uk/news/health-60913637?at_medium=RSS&at_campaign=KARANGA скачана!
+Появилась новая статья : https://www.cnn.com/interactive/2020/08/sport/lionel-messi-career-barcelona-spt-intl/
+Статья https://www.cnn.com/interactive/2020/08/sport/lionel-messi-career-barcelona-spt-intl/ скачана!
+Появилась новая статья : https://www.nytimes.com/2022/03/30/world/africa/nigeria-train-attack.html
+Статья https://www.nytimes.com/2022/03/30/world/africa/nigeria-train-attack.html скачана!
+Появилась новая статья : https://www.bbc.co.uk/news/business-58090533?at_medium=RSS&at_campaign=KARANGA
+Статья https://www.bbc.co.uk/news/business-58090533?at_medium=RSS&at_campaign=KARANGA скачана!
+Появилась новая статья : https://www.sports.ru/tribuna/blogs/medprivet/3029201.html
+Статья https://www.sports.ru/tribuna/blogs/medprivet/3029201.html скачана!
+RSS лента https://www.sports.ru/rss/main.xml обработана!
+Появилась новая статья : https://www.nytimes.com/2022/03/30/world/europe/putin-advisers-ukraine.html
+Статья https://www.nytimes.com/2022/03/30/world/europe/putin-advisers-ukraine.html скачана!
+Появилась новая статья : https://www.bbc.co.uk/news/business-60912464?at_medium=RSS&at_campaign=KARANGA
+Статья https://www.bbc.co.uk/news/business-60912464?at_medium=RSS&at_campaign=KARANGA скачана!
+Появилась новая статья : https://www.cnn.com/2020/08/11/football/neymar-psg-champions-league-brazil-cmd-spt-intl/index.html
+Статья https://www.cnn.com/2020/08/11/football/neymar-psg-champions-league-brazil-cmd-spt-intl/index.html скачана!
+Появилась новая статья : https://www.nytimes.com/2022/03/30/world/europe/ukraine-front-lines-russia-war.html
+Статья https://www.nytimes.com/2022/03/30/world/europe/ukraine-front-lines-russia-war.html скачана!
+Появилась новая статья : https://www.bbc.co.uk/news/58888451?at_medium=RSS&at_campaign=KARANGA
+Статья https://www.bbc.co.uk/news/58888451?at_medium=RSS&at_campaign=KARANGA скачана!
+Появилась новая статья : https://www.nytimes.com/2022/03/30/us/flamingo-escape-kansas-texas.html
+Статья https://www.nytimes.com/2022/03/30/us/flamingo-escape-kansas-texas.html скачана!
+Появилась новая статья : https://www.bbc.co.uk/news/newsbeat-60940277?at_medium=RSS&at_campaign=KARANGA
+Статья https://www.bbc.co.uk/news/newsbeat-60940277?at_medium=RSS&at_campaign=KARANGA скачана!
+Появилась новая статья : https://www.cnn.com/2020/08/06/football/bolsonaro-brazil-foootball-yellow-shirt-cmd-spt-intl/index.html
+Статья https://www.cnn.com/2020/08/06/football/bolsonaro-brazil-foootball-yellow-shirt-cmd-spt-intl/index.html скачана!
+Появилась новая статья : https://www.bbc.co.uk/news/education-60912316?at_medium=RSS&at_campaign=KARANGA
+Статья https://www.bbc.co.uk/news/education-60912316?at_medium=RSS&at_campaign=KARANGA скачана!
+Появилась новая статья : https://www.nytimes.com/2022/03/30/world/europe/russia-ukraine-peace-talks.html
+Статья https://www.nytimes.com/2022/03/30/world/europe/russia-ukraine-peace-talks.html скачана!
+Появилась новая статья : https://www.bbc.co.uk/news/world-asia-60932864?at_medium=RSS&at_campaign=KARANGA
+Статья https://www.bbc.co.uk/news/world-asia-60932864?at_medium=RSS&at_campaign=KARANGA скачана!
+Появилась новая статья : https://www.nytimes.com/2022/03/30/world/asia/bangladesh-blogger-death-sentence.html
+Статья https://www.nytimes.com/2022/03/30/world/asia/bangladesh-blogger-death-sentence.html скачана!
+Появилась новая статья : https://www.bbc.co.uk/news/business-60925823?at_medium=RSS&at_campaign=KARANGA
+Статья https://www.bbc.co.uk/news/business-60925823?at_medium=RSS&at_campaign=KARANGA скачана!
+Появилась новая статья : https://www.cnn.com/2020/08/15/football/lyon-manchester-city-champions-league-quarterfinals-spt-intl/index.html
+Статья https://www.cnn.com/2020/08/15/football/lyon-manchester-city-champions-league-quarterfinals-spt-intl/index.html скачана!
+Появилась новая статья : https://www.nytimes.com/2022/03/30/world/europe/ukraine-serbia-russia.html
+Статья https://www.nytimes.com/2022/03/30/world/europe/ukraine-serbia-russia.html скачана!
+Появилась новая статья : https://www.bbc.co.uk/sport/football/60935406?at_medium=RSS&at_campaign=KARANGA
+Статья https://www.bbc.co.uk/sport/football/60935406?at_medium=RSS&at_campaign=KARANGA скачана!
+Появилась новая статья : https://www.bbc.co.uk/sport/football/60945430?at_medium=RSS&at_campaign=KARANGA
+Статья https://www.bbc.co.uk/sport/football/60945430?at_medium=RSS&at_campaign=KARANGA скачана!
+Появилась новая статья : https://www.nytimes.com/2022/03/30/science/navigation-directions-brain-dementia.html
+Статья https://www.nytimes.com/2022/03/30/science/navigation-directions-brain-dementia.html скачана!
+Появилась новая статья : https://www.bbc.co.uk/sport/cricket/60924358?at_medium=RSS&at_campaign=KARANGA
+Статья https://www.bbc.co.uk/sport/cricket/60924358?at_medium=RSS&at_campaign=KARANGA скачана!
+Появилась новая статья : https://www.cnn.com/2020/08/13/football/rb-leipzig-atletico-madrid-champions-league-adams-spt-intl/index.html
+Статья https://www.cnn.com/2020/08/13/football/rb-leipzig-atletico-madrid-champions-league-adams-spt-intl/index.html скачана!
+RSS лента http://rss.cnn.com/rss/edition_football.rss обработана!
+Появилась новая статья : https://www.nytimes.com/2022/03/30/world/canada/jonathan-vance-guilty-obstruction.html
+Статья https://www.nytimes.com/2022/03/30/world/canada/jonathan-vance-guilty-obstruction.html скачана!
+Появилась новая статья : https://www.bbc.co.uk/sport/football/60938024?at_medium=RSS&at_campaign=KARANGA
+Статья https://www.bbc.co.uk/sport/football/60938024?at_medium=RSS&at_campaign=KARANGA скачана!
+Появилась новая статья : https://www.nytimes.com/2022/03/30/world/africa/jerusalem-western-sahara-us-consulates.html
+Статья https://www.nytimes.com/2022/03/30/world/africa/jerusalem-western-sahara-us-consulates.html скачана!
+Появилась новая статья : https://www.bbc.co.uk/sport/av/cricket/60937563?at_medium=RSS&at_campaign=KARANGA
+Статья https://www.bbc.co.uk/sport/av/cricket/60937563?at_medium=RSS&at_campaign=KARANGA скачана!
+Появилась новая статья : https://www.bbc.co.uk/news/uk-politics-60304595?at_medium=RSS&at_campaign=KARANGA
+Статья https://www.bbc.co.uk/news/uk-politics-60304595?at_medium=RSS&at_campaign=KARANGA скачана!
+Появилась новая статья : https://www.nytimes.com/2022/03/30/world/europe/ukraine-refugees-germany-berlin.html
+Статья https://www.nytimes.com/2022/03/30/world/europe/ukraine-refugees-germany-berlin.html скачана!
+Появилась новая статья : https://www.bbc.co.uk/news/uk-politics-60695244?at_medium=RSS&at_campaign=KARANGA
+Статья https://www.bbc.co.uk/news/uk-politics-60695244?at_medium=RSS&at_campaign=KARANGA скачана!
+Появилась новая статья : https://www.nytimes.com/2022/03/30/world/europe/russian-ruble-recovery-economy.html
+Статья https://www.nytimes.com/2022/03/30/world/europe/russian-ruble-recovery-economy.html скачана!
+Появилась новая статья : https://www.bbc.co.uk/news/uk-politics-60840043?at_medium=RSS&at_campaign=KARANGA
+Статья https://www.bbc.co.uk/news/uk-politics-60840043?at_medium=RSS&at_campaign=KARANGA скачана!
+Появилась новая статья : https://www.nytimes.com/2022/03/30/world/asia/hong-kong-british-judges.html
+Статья https://www.nytimes.com/2022/03/30/world/asia/hong-kong-british-judges.html скачана!
+Появилась новая статья : https://www.bbc.co.uk/news/uk-northern-ireland-60854472?at_medium=RSS&at_campaign=KARANGA
+Статья https://www.bbc.co.uk/news/uk-northern-ireland-60854472?at_medium=RSS&at_campaign=KARANGA скачана!
+Появилась новая статья : https://www.nytimes.com/2022/03/30/world/middleeast/yemen-houthis-saudi-coalition-cease-fire.html
+Статья https://www.nytimes.com/2022/03/30/world/middleeast/yemen-houthis-saudi-coalition-cease-fire.html скачана!
+Появилась новая статья : https://www.bbc.co.uk/news/uk-scotland-scotland-politics-60834736?at_medium=RSS&at_campaign=KARANGA
+Статья https://www.bbc.co.uk/news/uk-scotland-scotland-politics-60834736?at_medium=RSS&at_campaign=KARANGA скачана!
+Появилась новая статья : https://www.bbc.co.uk/news/business-60213795?at_medium=RSS&at_campaign=KARANGA
+Статья https://www.bbc.co.uk/news/business-60213795?at_medium=RSS&at_campaign=KARANGA скачана!
+RSS лента http://feeds.bbci.co.uk/news/rss.xml обработана!
+Появилась новая статья : https://www.nytimes.com/2022/03/30/world/europe/ukraine-uk-fracking-energy.html
+Статья https://www.nytimes.com/2022/03/30/world/europe/ukraine-uk-fracking-energy.html скачана!
+Появилась новая статья : https://www.nytimes.com/2022/03/30/world/europe/mariupol-food-lines-russia.html
+Статья https://www.nytimes.com/2022/03/30/world/europe/mariupol-food-lines-russia.html скачана!
+Появилась новая статья : https://www.nytimes.com/2022/03/30/us/politics/ukraine-spirit-of-america-aid.html
+Статья https://www.nytimes.com/2022/03/30/us/politics/ukraine-spirit-of-america-aid.html скачана!
+Появилась новая статья : https://www.nytimes.com/2022/03/30/world/asia/tipu-sultan-india-painting.html
+Статья https://www.nytimes.com/2022/03/30/world/asia/tipu-sultan-india-painting.html скачана!
+Появилась новая статья : https://www.nytimes.com/2022/03/30/world/europe/switzerland-montreux-family-balcony-dead.html
+Статья https://www.nytimes.com/2022/03/30/world/europe/switzerland-montreux-family-balcony-dead.html скачана!
+Появилась новая статья : https://www.nytimes.com/2022/03/30/briefing/russia-ukraine-battle-for-donbas.html
+Статья https://www.nytimes.com/2022/03/30/briefing/russia-ukraine-battle-for-donbas.html скачана!
+Появилась новая статья : https://www.nytimes.com/2022/03/30/world/asia/india-ukraine-russia-china.html
+Статья https://www.nytimes.com/2022/03/30/world/asia/india-ukraine-russia-china.html скачана!
+Появилась новая статья : https://www.nytimes.com/2022/03/30/technology/ukraine-russia-facebook-instagram.html
+Статья https://www.nytimes.com/2022/03/30/technology/ukraine-russia-facebook-instagram.html скачана!
+Появилась новая статья : https://www.nytimes.com/2022/03/30/briefing/ukraine-russia-germany-women-politics.html
+Статья https://www.nytimes.com/2022/03/30/briefing/ukraine-russia-germany-women-politics.html скачана!
+Появилась новая статья : https://www.nytimes.com/2022/03/29/world/europe/ukraine-russia-abramovich-oligarchs.html
+Статья https://www.nytimes.com/2022/03/29/world/europe/ukraine-russia-abramovich-oligarchs.html скачана!
+Появилась новая статья : https://www.nytimes.com/2022/03/29/world/ukraine-russia-kyiv-irpin.html
+Статья https://www.nytimes.com/2022/03/29/world/ukraine-russia-kyiv-irpin.html скачана!
+Появилась новая статья : https://www.nytimes.com/2022/03/29/world/europe/russia-ukraine-peace-talks.html
+Статья https://www.nytimes.com/2022/03/29/world/europe/russia-ukraine-peace-talks.html скачана!
+Появилась новая статья : https://www.nytimes.com/video/world/europe/100000008266730/ukraine-kyiv-fighters.html
+Статья https://www.nytimes.com/video/world/europe/100000008266730/ukraine-kyiv-fighters.html скачана!
+Появилась новая статья : https://www.nytimes.com/2022/03/29/world/europe/peace-talks-russia-ukraine.html
+Статья https://www.nytimes.com/2022/03/29/world/europe/peace-talks-russia-ukraine.html скачана!
+Появилась новая статья : https://www.nytimes.com/2022/03/29/world/europe/chernihiv-kyiv-ukraine-russia.html
+Статья https://www.nytimes.com/2022/03/29/world/europe/chernihiv-kyiv-ukraine-russia.html скачана!
+Появилась новая статья : https://www.nytimes.com/2022/03/29/health/ba2-variant-covid-cases.html
+Статья https://www.nytimes.com/2022/03/29/health/ba2-variant-covid-cases.html скачана!
+Появилась новая статья : https://www.nytimes.com/2022/03/29/world/europe/russia-ukraine-peace-talks-istanbul.html
+Статья https://www.nytimes.com/2022/03/29/world/europe/russia-ukraine-peace-talks-istanbul.html скачана!
+RSS лента https://rss.nytimes.com/services/xml/rss/nyt/World.xml обработана!
+За текущую итерацию получено 231 новых статей и 0 старых статей. Всего обработано - 231 статей
+За текущую итерацию обработано 10 rss лент
+RSS лента http://rss.cnn.com/rss/edition_football.rss взята в обработку!
+RSS лента https://edu.ru/news/it-v-obrazovanii/feed.rss взята в обработку!
+RSS лента https://edu.ru/news/glavnye-novosti/feed.rss взята в обработку!
+RSS лента https://edu.ru/news/olimpiady/feed.rss взята в обработку!
+RSS лента http://www.winblog.ru/category/news/rss.xml взята в обработку!
+RSS лента http://www.consultant.ru/rss/db.xml взята в обработку!
+RSS лента http://feeds.bbci.co.uk/news/rss.xml взята в обработку!
+RSS лента https://rss.nytimes.com/services/xml/rss/nyt/World.xml взята в обработку!
+RSS лента https://www.sports.ru/rss/main.xml взята в обработку!
+RSS лента https://moxie.foxnews.com/feedburner/latest.xml взята в обработку!
+RSS лента http://www.consultant.ru/rss/db.xml обработана!
+RSS лента http://www.winblog.ru/category/news/rss.xml обработана!
+Появилась новая статья : https://www.foxnews.com/us/massachusetts-chemicals-science-lab
+Статья https://www.foxnews.com/us/massachusetts-chemicals-science-lab скачана!
+Появилась новая статья : https://www.foxnews.com/entertainment/academy-will-smith-leave-oscars-source
+Статья https://www.foxnews.com/entertainment/academy-will-smith-leave-oscars-source скачана!
+Появилась новая статья : https://www.foxnews.com/politics/hunter-biden-foreign-business-dealings-china-ukraine-russia-kazakhstan
+Статья https://www.foxnews.com/politics/hunter-biden-foreign-business-dealings-china-ukraine-russia-kazakhstan скачана!
+RSS лента https://edu.ru/news/glavnye-novosti/feed.rss обработана!
+RSS лента https://edu.ru/news/olimpiady/feed.rss обработана!
+RSS лента https://edu.ru/news/it-v-obrazovanii/feed.rss обработана!
+RSS лента https://moxie.foxnews.com/feedburner/latest.xml обработана!
+RSS лента http://rss.cnn.com/rss/edition_football.rss обработана!
+RSS лента http://feeds.bbci.co.uk/news/rss.xml обработана!
+RSS лента https://www.sports.ru/rss/main.xml обработана!
+RSS лента https://rss.nytimes.com/services/xml/rss/nyt/World.xml обработана!
+За текущую итерацию получено 3 новых статей и 228 старых статей. Всего обработано - 231 статей
+За текущую итерацию обработано 10 rss лент
+RSS лента https://www.sports.ru/rss/all_news.xml взята в обработку!
+Появилась новая статья : https://www.sports.ru/football/1109093032-georgij-cherdanczev-mem-pro-ipoteku-kakoj-to-strannyj-no-ya-privyk-esl.html?
+Статья https://www.sports.ru/football/1109093032-georgij-cherdanczev-mem-pro-ipoteku-kakoj-to-strannyj-no-ya-privyk-esl.html? скачана!
+Появилась новая статья : https://www.sports.ru/hockey/1109079667-chm-po-xokkeyu-2022-finlyandiya-sygraet-s-velikobritaniej-kazaxstan-so.html?
+Статья https://www.sports.ru/hockey/1109079667-chm-po-xokkeyu-2022-finlyandiya-sygraet-s-velikobritaniej-kazaxstan-so.html? скачана!
+Появилась новая статья : https://www.sports.ru/automoto/1109092977-toto-volff-o-bolide-mersedesa-progress-est-no-ekstaza-on-ne-vyzyvaet.html?
+Статья https://www.sports.ru/automoto/1109092977-toto-volff-o-bolide-mersedesa-progress-est-no-ekstaza-on-ne-vyzyvaet.html? скачана!
+Появилась новая статья : https://www.sports.ru/basketball/1109093025-nba-plej-off-final-zapadnoj-konferenczii-2-j-match-golden-stejt-primet.html?
+Статья https://www.sports.ru/basketball/1109093025-nba-plej-off-final-zapadnoj-konferenczii-2-j-match-golden-stejt-primet.html? скачана!
+Появилась новая статья : https://www.sports.ru/hockey/1109092864-igor-esmantovich-sobrat-chempionskuyu-komandu-pri-potolke-poslozhnee-n.html?
+Статья https://www.sports.ru/hockey/1109092864-igor-esmantovich-sobrat-chempionskuyu-komandu-pri-potolke-poslozhnee-n.html? скачана!
+Появилась новая статья : https://www.sports.ru/automoto/1109092738-maks-ferstappen-red-bull-nuzhno-pribavlyat-v-skorosti-na-odnom-bystrom.html?
+Статья https://www.sports.ru/automoto/1109092738-maks-ferstappen-red-bull-nuzhno-pribavlyat-v-skorosti-na-odnom-bystrom.html? скачана!
+Появилась новая статья : https://www.sports.ru/automoto/1109088335-formula-2-ispaniya-kvalifikacziya.html?
+Статья https://www.sports.ru/automoto/1109088335-formula-2-ispaniya-kvalifikacziya.html? скачана!
+Появилась новая статья : https://www.sports.ru/basketball/1109092361-sbornye-rossii-i-belarusi-otstraneny-ot-uchastiya-v-blizhajshix-chempi.html?
+Статья https://www.sports.ru/basketball/1109092361-sbornye-rossii-i-belarusi-otstraneny-ot-uchastiya-v-blizhajshix-chempi.html? скачана!
+Появилась новая статья : https://www.sports.ru/others/1109092684-yaremenko-ob-izvineniyax-lokomotiva-za-slova-voronkova-reshenie-disczi.html?
+Статья https://www.sports.ru/others/1109092684-yaremenko-ob-izvineniyax-lokomotiva-za-slova-voronkova-reshenie-disczi.html? скачана!
+Появилась новая статья : https://www.sports.ru/football/1109092663-czska-vykupil-karraskalya-u-river-plejt-kontrakt-do-2026-goda.html?
+Статья https://www.sports.ru/football/1109092663-czska-vykupil-karraskalya-u-river-plejt-kontrakt-do-2026-goda.html? скачана!
+Появилась новая статья : https://www.sports.ru/football/1109079195-chempionat-ispanii-real-primet-betis-rajo-valekano-protiv-levante.html?
+Статья https://www.sports.ru/football/1109079195-chempionat-ispanii-real-primet-betis-rajo-valekano-protiv-levante.html? скачана!
+Появилась новая статья : https://www.sports.ru/hockey/1109092530-dedunov-o-prize-zheleznyj-chelovek-rybachil-v-xabarovske-exal-na-kater.html?
+Статья https://www.sports.ru/hockey/1109092530-dedunov-o-prize-zheleznyj-chelovek-rybachil-v-xabarovske-exal-na-kater.html? скачана!
+Появилась новая статья : https://www.sports.ru/basketball/1109085022-edinaya-liga-vtb-final-czska-primet-zenit-v-1-m-matche-serii.html?
+Статья https://www.sports.ru/basketball/1109085022-edinaya-liga-vtb-final-czska-primet-zenit-v-1-m-matche-serii.html? скачана!
+Появилась новая статья : https://www.sports.ru/football/1108335394-chto-sluchilos-ranshe-etot-moment-v-lige-chempionov-ili-vazhnoe-sobyti.html?
+Статья https://www.sports.ru/football/1108335394-chto-sluchilos-ranshe-etot-moment-v-lige-chempionov-ili-vazhnoe-sobyti.html? скачана!
+Появилась новая статья : https://www.sports.ru/automoto/1109092449-lyuis-xemilton-vpervye-pilotiroval-na-pryamoj-bez-galopirovaniya-my-mo.html?
+Статья https://www.sports.ru/automoto/1109092449-lyuis-xemilton-vpervye-pilotiroval-na-pryamoj-bez-galopirovaniya-my-mo.html? скачана!
+Появилась новая статья : https://www.sports.ru/football/1109092484-bavariya-mozhet-podpisat-risharlisona-na-zamenu-levandovskomu.html?
+Статья https://www.sports.ru/football/1109092484-bavariya-mozhet-podpisat-risharlisona-na-zamenu-levandovskomu.html? скачана!
+Появилась новая статья : https://www.sports.ru/figure-skating/1109092264-direktor-federaczii-figurnogo-kataniya-vengrii.html?
+Статья https://www.sports.ru/figure-skating/1109092264-direktor-federaczii-figurnogo-kataniya-vengrii.html? скачана!
+Появилась новая статья : https://www.sports.ru/boxing/1109089058-dastin-pore-budet-otstojno-esli-nejt-diaz-ujdet-iz-ufc-a-ya-tak-i-ne-n.html?
+Статья https://www.sports.ru/boxing/1109089058-dastin-pore-budet-otstojno-esli-nejt-diaz-ujdet-iz-ufc-a-ya-tak-i-ne-n.html? скачана!
+Появилась новая статья : https://www.sports.ru/hockey/1109092300-kolambus-prodlil-kontrakt-s-vratarem-korpisalo-na-god-i-1-3-mln-dollar.html?
+Статья https://www.sports.ru/hockey/1109092300-kolambus-prodlil-kontrakt-s-vratarem-korpisalo-na-god-i-1-3-mln-dollar.html? скачана!
+Появилась новая статья : https://www.sports.ru/tennis/1109086382-lion-atp-2022-rezultaty-1-2-finala.html?
+Статья https://www.sports.ru/tennis/1109086382-lion-atp-2022-rezultaty-1-2-finala.html? скачана!
+RSS лента https://www.sports.ru/rss/all_news.xml обработана!
+За текущую итерацию получено 20 новых статей и 0 старых статей. Всего обработано - 20 статей
+За текущую итерацию обработано 1 rss лент
+RSS лента https://www.sports.ru/rss/all_news.xml взята в обработку!
+RSS лента https://www.sports.ru/rss/all_news.xml обработана!
+За текущую итерацию получено 0 новых статей и 20 старых статей. Всего обработано - 20 статей
+За текущую итерацию обработано 1 rss лент
